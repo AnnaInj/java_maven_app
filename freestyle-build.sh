@@ -1,1 +1,5 @@
 npm --version
+
+uptime
+
+pwd
